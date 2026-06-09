@@ -38,5 +38,5 @@ Comparison of BFS and DFS search algorithms using the classic water jug problem.
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-sancak-1b0330409)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:buraksancak23@hotmail.com)
